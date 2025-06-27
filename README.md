@@ -50,3 +50,24 @@
 - Natural logarithm (log base e) of the number
 - Sine of the number (in radians)
 
+## <u>Assignment -4</u>
+## Module 5: Files, Exceptions, and Errors in Python
+
+## Task 1: Read a File and Handle Errors 
+### <i>Problem Statement:</i>  Write a Python program that:
+1.   Opens and reads a text file named sample.txt.
+2.   Prints its content line by line.
+3.   Handles errors gracefully if the file does not exist.
+![Screenshot 2025-06-27 130442](https://github.com/user-attachments/assets/8a084a0f-4df8-4aff-98ef-56de37ad41e9)
+
+## Task 2: Write and Append Data to a File
+ 
+### <i>Problem Statement:</i> Write a Python program that:
+1.   Takes user input and writes it to a file named output.txt.
+2.   Appends additional data to the same file.
+3.   Reads and displays the final content of the file.
+![Screenshot 2025-06-27 135325](https://github.com/user-attachments/assets/58a6c2e0-3dc3-4d60-a787-5bbb9a098801)
+
+
+
+
